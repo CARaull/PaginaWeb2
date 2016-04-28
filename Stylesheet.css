@@ -1,0 +1,93 @@
+body
+{
+	background-color:#00ff00;
+	font-family:"Helvetica",Arial;
+}
+#Contenido
+{
+	width:960px;
+	margin:0 auto;
+	text-align:center;
+}
+#Base	
+{
+	width:960px;
+	margin:0 auto;
+	text-align:center;
+}
+h1
+{
+	color:#e44e2d;
+}
+nav ul li
+{
+	display:inline-block;
+	margin-right:20px;
+	color:#ffffff;
+	cursor: pointer;
+}
+#texto
+{
+	width:400px;
+	height:200px;
+	
+	background-color:#1d1d1d;
+	color:#fff;
+	margin:0 auto;
+	border-radius:20px;
+	padding:20px;
+	box-shadow:0px 0px 20px rgba(0,0,0,0.5);
+}
+#texto2
+{
+	width:750px;
+	height:200px;
+	position:relative;
+	top:40px;	
+	background-color:#1d1d1d;
+	color:#fff;
+	margin:0 auto;
+	border-radius:20px;
+	padding:20px;
+	box-shadow:0px 0px 20px rgba(0,0,0,0.5);
+}
+
+#CambioCampeones
+{
+	position:absolute;
+	top: 200px;
+	left: 50px;
+	width:500px;
+	height:3050Px;
+	background-color:#1d1d1d;
+	Color:#fff;
+	border-radius:50px;
+	padding:20px;
+	box-Shadow:5px 5px 20px #1d1d1d;
+}
+#CambioObjetos
+{
+	position:absolute;
+	top:200px;
+	right:50px;
+	width:500px;
+	height:700Px;
+	background-color:#1d1d1d;
+	Color:#fff;
+	border-radius:50px;
+	padding:20px;
+	box-Shadow:5px 5px 20px #1d1d1d;
+}
+#CambioMaestrias
+{
+	position:absolute;
+	top:1000px;
+	right:50px;
+	width:500px;
+	height:450Px;
+	background-color:#1d1d1d;
+	Color:#fff;
+	border-radius:50px;
+	padding:20px;
+	box-Shadow:5px 5px 20px #1d1d1d;
+}
